@@ -8,7 +8,7 @@ Donwload model: [Drive](https://drive.google.com/file/d/1SexjXLUtbtFiHrSosF8-Sx1
 pip install -r requirements
 ```
 
-run project:
+Run project:
 
 ```
 uvicorn main:app --reload
